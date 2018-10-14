@@ -31,7 +31,7 @@ const collection = [
     id: "A08NCFH4",
     name: "Mike",
     age: 25,
-    description: "Eat me ;D",
+    description: "Hi, honey ;D",
     image: "img/profiles/mike.jpg",
   },
 ];
