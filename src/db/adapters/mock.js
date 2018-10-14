@@ -3,7 +3,7 @@ const collection = [
     id: "3290SNJK",
     name: "Pepper Jamson",
     age: 33,
-    description: "Why do seals live in salt water? Pepper makes them sneeze. haha! call me, baby ;)",
+    description: "Call me baby",
     image: "img/profiles/pepper.png",
   },
   {
