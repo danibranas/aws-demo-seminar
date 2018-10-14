@@ -21,18 +21,18 @@ const collection = [
     image: "img/profiles/assley.jpg",
   },
   {
-    id: "A08NCFH4",
-    name: "Mike",
-    age: 25,
-    description: "Eat me ;D",
-    image: "img/profiles/mike.jpg",
-  },
-  {
     id: "NYC8R09N",
     name: "Scarrot Johanson",
     age: 32,
     description: "Hey, what's up?",
     image: "img/profiles/scarrot.jpg",
+  },
+  {
+    id: "A08NCFH4",
+    name: "Mike",
+    age: 25,
+    description: "Eat me ;D",
+    image: "img/profiles/mike.jpg",
   },
 ];
 
